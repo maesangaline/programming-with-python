@@ -1,6 +1,5 @@
-# Marcie Sangaline
-# CPT 156 Programming with Python
-# Chapter 5, Exercise 13
+# Chapter 5
+# Exercise 13
 
 # Creates a function with the falling_time parameter
 def falling_distance(falling_time):
