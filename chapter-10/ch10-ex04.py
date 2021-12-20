@@ -1,6 +1,5 @@
-# Marcie Sangaline
-# CPT 156 Programming with Python
-# Chapter 10, Exercise 4
+# Chapter 10
+# Exercise 4
 
 # Define the classes
 class employee:
