@@ -1,6 +1,5 @@
-# Marcie Sangaline
-# CPT 156 Programming with Python
-# Chapter 7, Exercise 9
+# Chapter 7
+# Exercise 9
 
 # Define the main function
 def main():
