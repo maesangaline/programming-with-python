@@ -1,6 +1,5 @@
-# Marcie Sangaline
-# CPT 156 Programming with Python
-# Chapter 8, Exercise 10
+# Chapter 8
+# Exercise 10
 
 # Define the function to convert the string and store them
 def storeString(string):
