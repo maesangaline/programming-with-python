@@ -1,6 +1,5 @@
-# Marcie Sangaline
-# CPT 156, Programming with Python
-# Chapter 4, Exercise 18
+# Chapter 4
+# Exercise 18
 
 # Imports that turtle graphic
 import turtle
