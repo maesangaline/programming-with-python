@@ -1,6 +1,5 @@
-# Marcie Sangaline
-# CPT 156, Programming with Python
-# Chapter 4, Exercise 13
+# Chapter 4
+# Exercise 13
 
 
 # Input starting number of organisms
