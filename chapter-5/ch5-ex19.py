@@ -1,6 +1,5 @@
-# Marcie Sangaline
-# CPT 156 Programming with Python
-# Chapter 5, Exercise 19
+# Chapter 5
+# Exercise 19
 
 # Enter the present value
 presentValue = float(input('Enter the current account value: $'))
