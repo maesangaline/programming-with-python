@@ -1,5 +1,5 @@
 # Chapter 9
-# Exercise 4
+# Exercise 2
 
 # Define the main function
 def main():
