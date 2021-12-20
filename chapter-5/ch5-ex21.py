@@ -1,6 +1,5 @@
-# Marcie Sangaline
-# CPT 156 Programming with Python
-# Chapter 5, Exercise 21
+# Chapter 5
+# Exercise 21
 
 # Imports the random function
 import random
