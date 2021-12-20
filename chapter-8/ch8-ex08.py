@@ -1,6 +1,5 @@
-# Marcie Sangaline
-# CPT 156 Programming with Python
-# Chapter 8, Exercise 8
+# Chapter 8
+# Exercise 8
 
 # User inputs the sentence
 sentence = input('Enter a sentence with all lowercase letters: ')
